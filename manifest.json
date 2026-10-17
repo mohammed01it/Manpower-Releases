@@ -1,5 +1,5 @@
 ﻿{
-  "Version": "16.0.0",
+  "Version": "16.0.1",
   "IsMandatory": true,
   "Files": [
     {
@@ -16,9 +16,9 @@
     },
     {
       "Path": "ConnectionLog.txt",
-      "Size": 225,
-      "Hash": "6853a311f1e19f817a4de8583a9aef65",
-      "Modified": "2026-10-17T04:16:39.6096868+03:00"
+      "Size": 450,
+      "Hash": "c8aab2a1dc6f526c9c9da447bddad92e",
+      "Modified": "2026-10-17T06:31:02.8457991+03:00"
     },
     {
       "Path": "DocumentFormat.OpenXml.dll",
@@ -40,9 +40,9 @@
     },
     {
       "Path": "Manpower.exe",
-      "Size": 22307328,
-      "Hash": "b400a32ec5c783913726ab342204991b",
-      "Modified": "2026-10-17T04:16:14.562512+03:00"
+      "Size": 22327808,
+      "Hash": "85870fd19ff609a58514814969b0a96c",
+      "Modified": "2026-10-17T06:30:21.916712+03:00"
     },
     {
       "Path": "Manpower.exe.config",
@@ -174,7 +174,7 @@
       "Path": "update_source.json",
       "Size": 87,
       "Hash": "77603797c8c7d176e459e422b8eb5af0",
-      "Modified": "2026-10-17T06:24:36.2694331+03:00"
+      "Modified": "2026-10-17T06:33:49.024141+03:00"
     },
     {
       "Path": "DataFiles\\image_program\\logo_program_sm.png",

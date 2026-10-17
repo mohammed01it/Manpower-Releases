@@ -1,0 +1,7 @@
+﻿Required files for scanner runtime:
+1) twaindsm.dll (preferred for TWAIN 2.x)
+2) twain_32.dll (legacy fallback)
+Place the file directly in Tools folder.
+معمارية التطبيق: x86
+معمارية النظام: x64
+تأكد من تطابق تعريف الماسح و TWAIN DSM مع معمارية التطبيق.

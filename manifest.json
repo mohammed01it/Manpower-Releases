@@ -1,0 +1,1218 @@
+﻿{
+  "Version": "16.0.0",
+  "IsMandatory": true,
+  "Files": [
+    {
+      "Path": "AdvancedDataGridView.dll",
+      "Size": 104448,
+      "Hash": "e9a5734ac8922a4fe108e42f0af4452b",
+      "Modified": "2023-08-05T10:23:34+03:00"
+    },
+    {
+      "Path": "ClosedXML.dll",
+      "Size": 1198592,
+      "Hash": "6117122d000fce2c8afe84c9310695b6",
+      "Modified": "2022-06-29T06:47:22+03:00"
+    },
+    {
+      "Path": "ConnectionLog.txt",
+      "Size": 225,
+      "Hash": "6853a311f1e19f817a4de8583a9aef65",
+      "Modified": "2026-10-17T04:16:39.6096868+03:00"
+    },
+    {
+      "Path": "DocumentFormat.OpenXml.dll",
+      "Size": 6032816,
+      "Hash": "42997b03df2a02cbbceda962f0c56af1",
+      "Modified": "2022-06-29T00:21:24+03:00"
+    },
+    {
+      "Path": "EnvDTE.dll",
+      "Size": 255800,
+      "Hash": "25a12e78b9f18b24565b36bcf5b34257",
+      "Modified": "2026-06-15T16:45:22+03:00"
+    },
+    {
+      "Path": "ExcelNumberFormat.dll",
+      "Size": 30208,
+      "Hash": "5f0973b004d4da3fc3f2d80c3b19b1e4",
+      "Modified": "2020-10-02T08:42:28+03:00"
+    },
+    {
+      "Path": "Manpower.exe",
+      "Size": 22307328,
+      "Hash": "b400a32ec5c783913726ab342204991b",
+      "Modified": "2026-10-17T04:16:14.562512+03:00"
+    },
+    {
+      "Path": "Manpower.exe.config",
+      "Size": 3351,
+      "Hash": "973016bd6b79aab9d63de7d692b77a9c",
+      "Modified": "2026-10-17T04:16:11.5760833+03:00"
+    },
+    {
+      "Path": "Microsoft.Bcl.AsyncInterfaces.dll",
+      "Size": 21064,
+      "Hash": "5220eefd7753e11b99d73faf39fbb486",
+      "Modified": "2019-11-15T11:38:12+03:00"
+    },
+    {
+      "Path": "Microsoft.ReportViewer.Common.dll",
+      "Size": 9036248,
+      "Hash": "68009a074101c4b1bcaad0eecade478a",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "Microsoft.ReportViewer.DataVisualization.dll",
+      "Size": 5094968,
+      "Hash": "c2de4cf6ecd32907a37666c84c89a7f5",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "Microsoft.ReportViewer.Design.dll",
+      "Size": 84536,
+      "Hash": "72b411d254a3f48c48189d2481fc4c20",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "Microsoft.ReportViewer.ProcessingObjectModel.dll",
+      "Size": 98248,
+      "Hash": "fb5d57849c2ef03506a22ffa8147e4ab",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "Microsoft.ReportViewer.WebDesign.dll",
+      "Size": 95176,
+      "Hash": "41a4f69286433e4167beabc86073346f",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "Microsoft.ReportViewer.WebForms.dll",
+      "Size": 2815960,
+      "Hash": "4d2c97ede81eefe93370e5257776186a",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "Microsoft.ReportViewer.WinForms.dll",
+      "Size": 598584,
+      "Hash": "bd1a07b2a2939089f1a5d44928587ff8",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "Microsoft.SqlServer.Types.dll",
+      "Size": 392456,
+      "Hash": "fa91a68ed8d1cbd4f1b41ef3e6005645",
+      "Modified": "2018-09-27T09:33:46+03:00"
+    },
+    {
+      "Path": "Microsoft.Toolkit.Uwp.Notifications.dll",
+      "Size": 162448,
+      "Hash": "805135da62c5b65618b9782a5dc48f06",
+      "Modified": "2022-11-01T20:32:52+03:00"
+    },
+    {
+      "Path": "Microsoft.WindowsAPICodePack.dll",
+      "Size": 103936,
+      "Hash": "6c4ae229f5577a531c21e4f8564dc322",
+      "Modified": "2023-06-12T23:02:58+03:00"
+    },
+    {
+      "Path": "Microsoft.WindowsAPICodePack.Shell.dll",
+      "Size": 513024,
+      "Hash": "cdc01734a2a78d6d277feee855553e0d",
+      "Modified": "2023-06-12T23:03:04+03:00"
+    },
+    {
+      "Path": "Newtonsoft.Json.dll",
+      "Size": 711952,
+      "Hash": "195ffb7167db3219b217c4fd439eedd6",
+      "Modified": "2023-03-08T10:09:56+03:00"
+    },
+    {
+      "Path": "NTwain.dll",
+      "Size": 209408,
+      "Hash": "f3d07935d05b5c83858d1fbb53708a49",
+      "Modified": "2026-05-08T14:47:58+03:00"
+    },
+    {
+      "Path": "pdfium.dll",
+      "Size": 15807488,
+      "Hash": "bf6c940c024d137796f8d1d74952b120",
+      "Modified": "2018-04-08T07:08:44+03:00"
+    },
+    {
+      "Path": "PdfiumViewer.dll",
+      "Size": 115712,
+      "Hash": "82e7c3a1caad77137d7fa643e652a9bd",
+      "Modified": "2017-11-06T18:33:46+03:00"
+    },
+    {
+      "Path": "stdole.dll",
+      "Size": 16384,
+      "Hash": "e1eeb7e26ab04075eecc7275239b20b3",
+      "Modified": "2012-10-01T20:30:04+03:00"
+    },
+    {
+      "Path": "Stripe.net.dll",
+      "Size": 3312128,
+      "Hash": "5bb3d9a30445f5e6fc117fb6d5766368",
+      "Modified": "2025-07-30T20:16:26+03:00"
+    },
+    {
+      "Path": "System.Runtime.CompilerServices.Unsafe.dll",
+      "Size": 23600,
+      "Hash": "d9e308fe5f1ac35ce823964288da1ba5",
+      "Modified": "2018-09-18T22:38:10+03:00"
+    },
+    {
+      "Path": "System.Threading.Tasks.Extensions.dll",
+      "Size": 33008,
+      "Hash": "0f384afcf671483188b9019d3b7457a7",
+      "Modified": "2018-11-29T18:39:20+03:00"
+    },
+    {
+      "Path": "update_source.json",
+      "Size": 87,
+      "Hash": "77603797c8c7d176e459e422b8eb5af0",
+      "Modified": "2026-10-17T06:19:40.9313391+03:00"
+    },
+    {
+      "Path": "DataFiles\\image_program\\logo_program_sm.png",
+      "Size": 123395,
+      "Hash": "3fd214440e98d2ce0299c2d235472366",
+      "Modified": "2026-10-14T15:13:11.0193049+03:00"
+    },
+    {
+      "Path": "DataFiles\\image_program\\iamge_logo_program\\logo_program_sm.png",
+      "Size": 46845,
+      "Hash": "964a9a89a81d0f1092c3a5f573ca121d",
+      "Modified": "2026-10-14T15:13:10.9212438+03:00"
+    },
+    {
+      "Path": "DataFiles\\image_program\\image_active_account\\active_account.png",
+      "Size": 10892,
+      "Hash": "c5fe3a07b1e6c6d785d36daf271aa3e4",
+      "Modified": "2026-10-14T15:13:10.9234856+03:00"
+    },
+    {
+      "Path": "DataFiles\\image_program\\image_active_account\\unactive_account.png",
+      "Size": 10588,
+      "Hash": "3432dab274494a2bdcedcb4eaea419b6",
+      "Modified": "2026-10-14T15:13:10.9246819+03:00"
+    },
+    {
+      "Path": "DataFiles\\image_program\\image_block_account\\block_account.png",
+      "Size": 6356,
+      "Hash": "47567deeb43a09f99ef0371b0f43284a",
+      "Modified": "2026-10-14T15:13:10.9256958+03:00"
+    },
+    {
+      "Path": "DataFiles\\image_program\\image_block_account\\unblock_account.png",
+      "Size": 6550,
+      "Hash": "d434158a39ddfc1319013fe0d7fdade2",
+      "Modified": "2026-10-14T15:13:10.9266913+03:00"
+    },
+    {
+      "Path": "DataFiles\\image_program\\image_congratulation_new_level\\1.gif",
+      "Size": 1868452,
+      "Hash": "812f0948d4de3d65d5c1cb25989ddb79",
+      "Modified": "2026-10-14T15:13:10.9405037+03:00"
+    },
+    {
+      "Path": "DataFiles\\image_program\\image_congratulation_new_level\\2.gif",
+      "Size": 208893,
+      "Hash": "b77417349164daa1b9b6b3fa588c1e97",
+      "Modified": "2026-10-14T15:13:10.9439298+03:00"
+    },
+    {
+      "Path": "DataFiles\\image_program\\image_congratulation_new_level\\3.gif",
+      "Size": 31464,
+      "Hash": "6eedcb0ff2dc0799fafbf8338ca53148",
+      "Modified": "2026-10-14T15:13:10.9453758+03:00"
+    },
+    {
+      "Path": "DataFiles\\image_program\\image_level_user\\logo_level0.png",
+      "Size": 193945,
+      "Hash": "2b75f86a6f54e8dd48a94ef4523f9cf1",
+      "Modified": "2026-10-14T15:13:10.9483882+03:00"
+    },
+    {
+      "Path": "DataFiles\\image_program\\image_level_user\\logo_level1.png",
+      "Size": 1297410,
+      "Hash": "cfcfde28643a31188bbf366d5fee91c4",
+      "Modified": "2026-10-14T15:13:10.957388+03:00"
+    },
+    {
+      "Path": "DataFiles\\image_program\\image_level_user\\logo_level2.png",
+      "Size": 1199098,
+      "Hash": "554df25effe1a326b75b33ffce6e2df2",
+      "Modified": "2026-10-14T15:13:10.9654831+03:00"
+    },
+    {
+      "Path": "DataFiles\\image_program\\image_level_user\\logo_level3.png",
+      "Size": 1406486,
+      "Hash": "886802983a6b62eea2c1212f120acd57",
+      "Modified": "2026-10-14T15:13:10.973386+03:00"
+    },
+    {
+      "Path": "DataFiles\\image_program\\image_level_user\\logo_level4.png",
+      "Size": 1414068,
+      "Hash": "1a03a41cf7489cc114ed34c5fea38386",
+      "Modified": "2026-10-14T15:13:10.9814113+03:00"
+    },
+    {
+      "Path": "DataFiles\\image_program\\image_level_user\\logo_level5.png",
+      "Size": 1456940,
+      "Hash": "410f7bcbad02f4b0f4c2499c5616d357",
+      "Modified": "2026-10-14T15:13:10.9913868+03:00"
+    },
+    {
+      "Path": "DataFiles\\image_program\\image_level_user\\logo_level6.png",
+      "Size": 1625716,
+      "Hash": "b5ab8301125d9cd7148e3538080f9230",
+      "Modified": "2026-10-14T15:13:11.0004928+03:00"
+    },
+    {
+      "Path": "DataFiles\\image_program\\image_level_user\\logo_level7.png",
+      "Size": 1430474,
+      "Hash": "c227aa8d61de2a25b8c2eb14f448c6b7",
+      "Modified": "2026-10-14T15:13:11.0104823+03:00"
+    },
+    {
+      "Path": "DataFiles\\image_program\\image_maim_mode\\Main_Mode_App.png",
+      "Size": 203740,
+      "Hash": "8530ebed6e83bd8e91d1455cb1600eec",
+      "Modified": "2026-10-14T15:13:11.0136217+03:00"
+    },
+    {
+      "Path": "DataFiles\\image_program\\image_maim_mode\\Simple_Mode_App.png",
+      "Size": 123685,
+      "Hash": "c9e67876209245ce6c16037c12516b25",
+      "Modified": "2026-10-14T15:13:11.0150867+03:00"
+    },
+    {
+      "Path": "DataFiles\\image_program\\loading_wait\\loading_wait.gif",
+      "Size": 89594,
+      "Hash": "649a6d47f28091883e77fe179c162fd9",
+      "Modified": "2026-10-14T15:13:11.0172812+03:00"
+    },
+    {
+      "Path": "DataFiles\\image_program\\plan_updata\\plan_updata.png",
+      "Size": 551591,
+      "Hash": "5eb34b451f3f1219c5f2c92dd0807f8b",
+      "Modified": "2026-10-14T15:13:11.0233385+03:00"
+    },
+    {
+      "Path": "DataFiles\\image_program\\scanner_img\\AppLogo.ico",
+      "Size": 70654,
+      "Hash": "84642599a7bbd6113a12fa1342886376",
+      "Modified": "2026-10-14T15:13:11.0253036+03:00"
+    },
+    {
+      "Path": "DataFiles\\image_program\\scanner_img\\AppLogo.webp",
+      "Size": 120456,
+      "Hash": "90c14af49a3a56089775071ec4cd259d",
+      "Modified": "2026-10-14T15:13:11.0272535+03:00"
+    },
+    {
+      "Path": "DataFiles\\image_program\\scanner_img\\loading.gif",
+      "Size": 8130,
+      "Hash": "3f6c4daae6b6669b186f1a73ea0abcac",
+      "Modified": "2026-10-14T15:13:11.0282685+03:00"
+    },
+    {
+      "Path": "DataFiles\\image_program\\scanner_img\\save_32px.png",
+      "Size": 497,
+      "Hash": "e32c5094b29480ce6e0a8dff35eef904",
+      "Modified": "2026-10-14T15:13:11.029261+03:00"
+    },
+    {
+      "Path": "DataFiles\\image_program\\scanner_img\\scaning.gif",
+      "Size": 602320,
+      "Hash": "c0c9c2a6b0a99053b87b14114c876000",
+      "Modified": "2026-10-14T15:13:11.0346205+03:00"
+    },
+    {
+      "Path": "DataFiles\\image_program\\scanner_img\\scanner_50px.png",
+      "Size": 1841,
+      "Hash": "1361d647688bf1008a5bedf6485c90a2",
+      "Modified": "2026-10-14T15:13:11.0346205+03:00"
+    },
+    {
+      "Path": "DataFiles\\image_program\\state_check_con\\check_con.gif",
+      "Size": 38818,
+      "Hash": "61df6f5ab2bd73d752a3b116305fd64c",
+      "Modified": "2026-10-14T15:13:11.0365469+03:00"
+    },
+    {
+      "Path": "DataFiles\\import_template_excel\\قالب استيراد العمالة الكل.xlsx",
+      "Size": 10857,
+      "Hash": "bb51def656d61b5bf275d0dfa6c06dc7",
+      "Modified": "2026-10-14T15:13:11.0379309+03:00"
+    },
+    {
+      "Path": "DataFiles\\import_template_excel\\قالب استيراد العمالة مختصر.xlsx",
+      "Size": 10220,
+      "Hash": "7327b728714758a7030e543cf12c84c3",
+      "Modified": "2026-10-14T15:13:11.0399551+03:00"
+    },
+    {
+      "Path": "DataFiles\\import_template_excel\\قالب استيراد العملاء.xlsx",
+      "Size": 9936,
+      "Hash": "5aa5f442367f6de4f31c50d4fd599157",
+      "Modified": "2026-10-14T15:13:11.0409405+03:00"
+    },
+    {
+      "Path": "DataFiles\\import_template_excel\\قالب استيراد المورد.xlsx",
+      "Size": 9426,
+      "Hash": "0e9bd5bc18dff475fdb8cc937bf323ba",
+      "Modified": "2026-10-14T15:13:11.0419368+03:00"
+    },
+    {
+      "Path": "DataFiles\\import_template_excel\\قالب استيراد الموظف الكل.xlsx",
+      "Size": 11805,
+      "Hash": "35314797e943bde8d900e409d571caa6",
+      "Modified": "2026-10-14T15:13:11.0429816+03:00"
+    },
+    {
+      "Path": "DataFiles\\import_template_excel\\قالب استيراد الموظف مختصر.xlsx",
+      "Size": 10037,
+      "Hash": "039a90c5e80bc3510cd5018b8ce9296f",
+      "Modified": "2026-10-14T15:13:11.044111+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\copress_pdf_gs10021w64\\gsdll64.dll",
+      "Size": 24608256,
+      "Hash": "8b1c56e138efc3c678c7eb1d88648592",
+      "Modified": "2026-10-14T15:13:10.229251+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\copress_pdf_gs10021w64\\gsdll64.lib",
+      "Size": 11280,
+      "Hash": "5325fc936d655d429c31a258da90bfbe",
+      "Modified": "2026-10-14T15:13:10.2322655+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\copress_pdf_gs10021w64\\gswin64.exe",
+      "Size": 104448,
+      "Hash": "8fd9ecd60518648ae0e3f45517bcd22d",
+      "Modified": "2026-10-14T15:13:10.2342761+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\copress_pdf_gs10021w64\\gswin64c.exe",
+      "Size": 93696,
+      "Hash": "afa48925e3fa6a78215e454efdfaa730",
+      "Modified": "2026-10-14T15:13:10.2352639+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\copress_vidoe_ffmpeg\\ffmpeg.exe",
+      "Size": 99264000,
+      "Hash": "3614d254f8014fd8997b539383ede5fc",
+      "Modified": "2026-10-14T15:13:10.8940149+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libarchive-13.dll",
+      "Size": 972210,
+      "Hash": "efab4a68a1f52c787792076ed3c7e50b",
+      "Modified": "2026-10-14T15:13:08.7993051+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libb2-1.dll",
+      "Size": 34653,
+      "Hash": "ecab1376d711ac474096e30c1906cfaf",
+      "Modified": "2026-10-14T15:13:08.8003051+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libbrotlicommon.dll",
+      "Size": 143429,
+      "Hash": "b0506cf91febbd0608f37ea15601a21d",
+      "Modified": "2026-10-14T15:13:08.803602+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libbrotlidec.dll",
+      "Size": 62461,
+      "Hash": "8d14b02fb8d5097a1f260abd04dbe067",
+      "Modified": "2026-10-14T15:13:08.8046034+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libbz2-1.dll",
+      "Size": 100964,
+      "Hash": "981dac0b4d9eb1da0be9f51024d5649a",
+      "Modified": "2026-10-14T15:13:08.8066082+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libcairo-2.dll",
+      "Size": 1247164,
+      "Hash": "4b8fec03de3f00cc7def7fe47d409369",
+      "Modified": "2026-10-14T15:13:08.8206016+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libcurl-4.dll",
+      "Size": 1226963,
+      "Hash": "4a021e6b2b5dbbff9337280f8019163b",
+      "Modified": "2026-10-14T15:13:08.8336015+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libdatrie-1.dll",
+      "Size": 35033,
+      "Hash": "bf99cceaa1db1d93757a67baa20fd621",
+      "Modified": "2026-10-14T15:13:08.8356023+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libdeflate.dll",
+      "Size": 99228,
+      "Hash": "5037ae9c5f20241801fc74b10d510299",
+      "Modified": "2026-10-14T15:13:08.8366025+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libexpat-1.dll",
+      "Size": 237603,
+      "Hash": "c767f3608a8ab959ccf70f3052fe667a",
+      "Modified": "2026-10-14T15:13:08.8406042+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libffi-8.dll",
+      "Size": 40945,
+      "Hash": "6731df84d5e0c8b97c0e9f1a06a43757",
+      "Modified": "2026-10-14T15:13:08.8416085+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libfontconfig-1.dll",
+      "Size": 502866,
+      "Hash": "fd6029bb0ae2aa25898902ca5c78874c",
+      "Modified": "2026-10-14T15:13:08.8455996+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libfreetype-6.dll",
+      "Size": 790651,
+      "Hash": "3cc68a8741b3a1dadb50c3b1e246bb6b",
+      "Modified": "2026-10-14T15:13:08.8535993+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libfribidi-0.dll",
+      "Size": 156403,
+      "Hash": "dedadf2ddf42cd06c5607b4e7c14d35b",
+      "Modified": "2026-10-14T15:13:08.8556101+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libgcc_s_seh-1.dll",
+      "Size": 954773,
+      "Hash": "af220f6788b81083801b8318cd37ebed",
+      "Modified": "2026-10-14T15:13:08.8636892+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libgif-7.dll",
+      "Size": 45777,
+      "Hash": "37c03fe2618e99161d1f2e5f33f2e4af",
+      "Modified": "2026-10-14T15:13:08.8657024+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libgio-2.0-0.dll",
+      "Size": 1915159,
+      "Hash": "610f1624df90a39ecd62d1482de89324",
+      "Modified": "2026-10-14T15:13:08.8869434+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libglib-2.0-0.dll",
+      "Size": 1566649,
+      "Hash": "19c1d13119faeb8c57df8ff3d5568eb1",
+      "Modified": "2026-10-14T15:13:08.9104607+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libgmodule-2.0-0.dll",
+      "Size": 26748,
+      "Hash": "224d8759eec359274839d9ba7e3dadc3",
+      "Modified": "2026-10-14T15:13:08.9149509+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libgobject-2.0-0.dll",
+      "Size": 359475,
+      "Hash": "c854db34cfff28fcb65312783df10004",
+      "Modified": "2026-10-14T15:13:08.9200334+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libgraphite2.dll",
+      "Size": 167155,
+      "Hash": "bea21bd44c67f800b43995141065194b",
+      "Modified": "2026-10-14T15:13:08.9244495+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libharfbuzz-0.dll",
+      "Size": 1541957,
+      "Hash": "29dd2d6ea18c760cef88d4e6e5df6deb",
+      "Modified": "2026-10-14T15:13:08.950159+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libiconv-2.dll",
+      "Size": 1143148,
+      "Hash": "987a6b7cd60f6c108550ebfc1771b911",
+      "Modified": "2026-10-14T15:13:08.9705144+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libicudt78.dll",
+      "Size": 33120806,
+      "Hash": "48ad35d6a3029d38c1310b58d4b9996e",
+      "Modified": "2026-10-14T15:13:09.2096233+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libicuin78.dll",
+      "Size": 3186867,
+      "Hash": "474df3c2dccf7c0efa35b8c3d4e6c098",
+      "Modified": "2026-10-14T15:13:09.2471349+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libicuuc78.dll",
+      "Size": 1999466,
+      "Hash": "b2ae2619fe8fc26233c882faa2324b3d",
+      "Modified": "2026-10-14T15:13:09.2673843+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libidn2-0.dll",
+      "Size": 247081,
+      "Hash": "67e0ecf0b035cc7e754d6d232dfaae60",
+      "Modified": "2026-10-14T15:13:09.2712654+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libintl-8.dll",
+      "Size": 298731,
+      "Hash": "edf8f1b85f2f01ff0a28a6a31c3e427d",
+      "Modified": "2026-10-14T15:13:09.2753068+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libjbig-0.dll",
+      "Size": 62083,
+      "Hash": "9927917014613dd5d7d07742520d95a9",
+      "Modified": "2026-10-14T15:13:09.2763756+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libjpeg-8.dll",
+      "Size": 967968,
+      "Hash": "81b7212902bb4b3ce86dcd668fb6e22c",
+      "Modified": "2026-10-14T15:13:09.2894081+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libleptonica-6.dll",
+      "Size": 2850600,
+      "Hash": "74755adfa1761b2869636cf62a44c95f",
+      "Modified": "2026-10-14T15:13:09.333399+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libLerc.dll",
+      "Size": 804265,
+      "Hash": "a17f39f79fd6d3c52e7c3e7f09cb5bb1",
+      "Modified": "2026-10-14T15:13:08.788016+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\liblz4.dll",
+      "Size": 158649,
+      "Hash": "7a25d2b7559727bf4a725c8c019676a7",
+      "Modified": "2026-10-14T15:13:09.3387348+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\liblzma-5.dll",
+      "Size": 191836,
+      "Hash": "7e607a0dad30934d1947fa6557196753",
+      "Modified": "2026-10-14T15:13:09.3447463+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libopenjp2-7.dll",
+      "Size": 519082,
+      "Hash": "69f4f359139275ff8b4cb9156e205d91",
+      "Modified": "2026-10-14T15:13:09.3517413+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libpango-1.0-0.dll",
+      "Size": 437317,
+      "Hash": "4be5db824c8ffab022099ec7323f66db",
+      "Modified": "2026-10-14T15:13:09.3577362+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libpangocairo-1.0-0.dll",
+      "Size": 84876,
+      "Hash": "49ab9419c269b18f79eacad693b770fb",
+      "Modified": "2026-10-14T15:13:09.3597367+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libpangoft2-1.0-0.dll",
+      "Size": 112015,
+      "Hash": "d9485c120eccc23776fca2853639fc9b",
+      "Modified": "2026-10-14T15:13:09.3620743+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libpangowin32-1.0-0.dll",
+      "Size": 112948,
+      "Hash": "2d4adce0b2973d7a8c90afd36f1ac82e",
+      "Modified": "2026-10-14T15:13:09.3644507+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libpcre2-8-0.dll",
+      "Size": 717955,
+      "Hash": "65f381f8e8eae2b0adda39e0c558356b",
+      "Modified": "2026-10-14T15:13:09.3734655+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libpixman-1-0.dll",
+      "Size": 740378,
+      "Hash": "e8e3335d0129744c5d37e531fee6ab2a",
+      "Modified": "2026-10-14T15:13:09.3923742+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libpng16-16.dll",
+      "Size": 264269,
+      "Hash": "6ab78f732313943025fb763525af5b77",
+      "Modified": "2026-10-14T15:13:09.4015911+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libpsl-5.dll",
+      "Size": 105304,
+      "Hash": "f261bf70c7aa823262ab17cde67feb58",
+      "Modified": "2026-10-14T15:13:09.4055037+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libsharpyuv-0.dll",
+      "Size": 53757,
+      "Hash": "10d19e4639353ddb7bed53da0b25e9b4",
+      "Modified": "2026-10-14T15:13:09.4096039+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libssh2-1.dll",
+      "Size": 271318,
+      "Hash": "1071811a30e578c0c5c1bbb2dd63c6b2",
+      "Modified": "2026-10-14T15:13:09.4176189+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libstdc++-6.dll",
+      "Size": 26390974,
+      "Hash": "1191058dd5eb9e5e67784cfed85f01d2",
+      "Modified": "2026-10-14T15:13:09.7101671+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libtesseract-5.dll",
+      "Size": 3501048,
+      "Hash": "dfdf2af324a902113ccb5c832033d6e3",
+      "Modified": "2026-10-14T15:13:09.7361702+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libthai-0.dll",
+      "Size": 72294,
+      "Hash": "4581131a8f905de641d36f0b6c0b8626",
+      "Modified": "2026-10-14T15:13:09.7381706+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libtiff-6.dll",
+      "Size": 625178,
+      "Hash": "0a0359758822c4b39d08a020e55c14f2",
+      "Modified": "2026-10-14T15:13:09.7431665+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libunistring-5.dll",
+      "Size": 2251328,
+      "Hash": "87f4365bdd44457dc3620c6da6104720",
+      "Modified": "2026-10-14T15:13:09.755678+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libwebp-7.dll",
+      "Size": 749724,
+      "Hash": "54b70387717d53c8fde9abebc0546f00",
+      "Modified": "2026-10-14T15:13:09.7637073+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libwebpmux-3.dll",
+      "Size": 82858,
+      "Hash": "4dc325d1a5eb5d032bc8156bd9a88726",
+      "Modified": "2026-10-14T15:13:09.76507+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libwinpthread-1.dll",
+      "Size": 65955,
+      "Hash": "7b5ea41d9ab9fd0435e2e3cff7d3332c",
+      "Modified": "2026-10-14T15:13:09.76701+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\libzstd.dll",
+      "Size": 1218273,
+      "Hash": "2547570701931990e8c40219ba91197e",
+      "Modified": "2026-10-14T15:13:09.7770199+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\tesseract.1.html",
+      "Size": 74540,
+      "Hash": "126159cff833cfb213ddc3fe62cadb97",
+      "Modified": "2026-10-14T15:13:10.0675527+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\tesseract.exe",
+      "Size": 1867784,
+      "Hash": "77f75780c761d5eea56fae9eb49e1ec0",
+      "Modified": "2026-10-14T15:13:10.0776894+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\zlib1.dll",
+      "Size": 128488,
+      "Hash": "30a31b969a3356efde11078dc635baa0",
+      "Modified": "2026-10-14T15:13:10.0796939+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\tessdata\\ara.traineddata",
+      "Size": 2494806,
+      "Hash": "8418fff7fad2513d3b13ff020b710702",
+      "Modified": "2026-10-14T15:13:09.7983997+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\tessdata\\eng.traineddata",
+      "Size": 23466654,
+      "Hash": "57e0df3d84fed9fbf8c7a8e589f8f012",
+      "Modified": "2026-10-14T15:13:09.9682685+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\OCR_Tesseract\\tessdata\\ocrb.traineddata",
+      "Size": 11397113,
+      "Hash": "6ffbca7694e74a6ceb619500078a6a5a",
+      "Modified": "2026-10-14T15:13:10.064657+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\scanner_twaindsm-2.3.0.win.bin\\ChangeLog.txt",
+      "Size": 6858,
+      "Hash": "cdb888f45bbb43bda195dc375943d111",
+      "Modified": "2026-10-14T15:13:10.9045913+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\scanner_twaindsm-2.3.0.win.bin\\license.txt",
+      "Size": 26968,
+      "Hash": "934b0b312dc5eed17db8514d112b6c3d",
+      "Modified": "2026-10-14T15:13:10.9107615+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\scanner_twaindsm-2.3.0.win.bin\\README.txt",
+      "Size": 3335,
+      "Hash": "9d1f36685652e417f4293da1635af126",
+      "Modified": "2026-10-14T15:13:10.9056732+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\scanner_twaindsm-2.3.0.win.bin\\TODO.txt",
+      "Size": 25,
+      "Hash": "e0a9803c4b401b0b99688159fa211493",
+      "Modified": "2026-10-14T15:13:10.9079663+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\scanner_twaindsm-2.3.0.win.bin\\TWAIN_REQUIRED_FILES.txt",
+      "Size": 327,
+      "Hash": "f277802675cd2cd3c361acc7f3178266",
+      "Modified": "2026-10-14T15:13:10.90975+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\scanner_twaindsm-2.3.0.win.bin\\twain32\\TWAINDSM.dll",
+      "Size": 173424,
+      "Hash": "7587154ec60c34aaf674497cea8f72b5",
+      "Modified": "2026-10-14T15:13:10.9137551+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\scanner_twaindsm-2.3.0.win.bin\\twain32\\TWAINDSM32.msm",
+      "Size": 97280,
+      "Hash": "8ceb4170c3ecbe12f89f5ae9148e9086",
+      "Modified": "2026-10-14T15:13:10.9147545+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\scanner_twaindsm-2.3.0.win.bin\\twain64\\TWAINDSM.dll",
+      "Size": 203120,
+      "Hash": "1f4c02abeaf0a63f9b2b0e6054457171",
+      "Modified": "2026-10-14T15:13:10.9182443+03:00"
+    },
+    {
+      "Path": "DataFiles\\Tools\\scanner_twaindsm-2.3.0.win.bin\\twain64\\TWAINDSM64.msm",
+      "Size": 172032,
+      "Hash": "1b865dd9fc4dfc71aa7a3ffbfdceb082",
+      "Modified": "2026-10-14T15:13:10.9193325+03:00"
+    },
+    {
+      "Path": "de\\Microsoft.ReportViewer.Common.resources.dll",
+      "Size": 1456200,
+      "Hash": "3df96a8399a6c05067800b7c1b6177d3",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "de\\Microsoft.ReportViewer.DataVisualization.resources.dll",
+      "Size": 1418296,
+      "Hash": "36e500a86d7a3612f69402334a246b9d",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "de\\Microsoft.ReportViewer.Design.resources.dll",
+      "Size": 23496,
+      "Hash": "b982bcb25f3aa4a2e21dffd9dc58a13c",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "de\\Microsoft.ReportViewer.WebDesign.resources.dll",
+      "Size": 23496,
+      "Hash": "b29cad21256495f5b1d284f96980ed43",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "de\\Microsoft.ReportViewer.WebForms.resources.dll",
+      "Size": 46040,
+      "Hash": "ad0381ce5e1b2190e42b6860a1c64140",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "de\\Microsoft.ReportViewer.WinForms.resources.dll",
+      "Size": 71112,
+      "Hash": "7a5890db75a4758caa96841de5a3f1e6",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "es\\Microsoft.ReportViewer.Common.resources.dll",
+      "Size": 1454040,
+      "Hash": "6330dca6d5f51ea94063a75050f08f81",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "es\\Microsoft.ReportViewer.DataVisualization.resources.dll",
+      "Size": 1414712,
+      "Hash": "63407c178f85d8edd2719d828647d7bd",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "es\\Microsoft.ReportViewer.Design.resources.dll",
+      "Size": 23496,
+      "Hash": "af69bd071d42907c5bbb76b7ac0cfbc2",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "es\\Microsoft.ReportViewer.WebDesign.resources.dll",
+      "Size": 23624,
+      "Hash": "20a23870c9866bcfdd5d3f423095f0fb",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "es\\Microsoft.ReportViewer.WebForms.resources.dll",
+      "Size": 45528,
+      "Hash": "35d1ab488db8359869da76ce6ae7af66",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "es\\Microsoft.ReportViewer.WinForms.resources.dll",
+      "Size": 71736,
+      "Hash": "e857be8d373c136a4ee3d7c28213d638",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "fr\\Microsoft.ReportViewer.Common.resources.dll",
+      "Size": 1463752,
+      "Hash": "dd1d373a1a6f69c2f1ba2d1539564f2e",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "fr\\Microsoft.ReportViewer.DataVisualization.resources.dll",
+      "Size": 1425464,
+      "Hash": "e8f4a4dedd59f84bc6dc079898999df6",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "fr\\Microsoft.ReportViewer.Design.resources.dll",
+      "Size": 23496,
+      "Hash": "a5df2c6686522b63437fb622ec10092f",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "fr\\Microsoft.ReportViewer.WebDesign.resources.dll",
+      "Size": 23496,
+      "Hash": "2f57172b333aea8473e9d8e79743571c",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "fr\\Microsoft.ReportViewer.WebForms.resources.dll",
+      "Size": 46536,
+      "Hash": "085890ddcd46754c0dc62175ab706441",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "fr\\Microsoft.ReportViewer.WinForms.resources.dll",
+      "Size": 72136,
+      "Hash": "cc6941f20890fbfd5c7a28dad6bbfd20",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "it\\Microsoft.ReportViewer.Common.resources.dll",
+      "Size": 1460280,
+      "Hash": "49bd55a6bda54f5fd37d748fe4a42ad6",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "it\\Microsoft.ReportViewer.DataVisualization.resources.dll",
+      "Size": 1409592,
+      "Hash": "51113fc9bfe31fb39d910237983aa702",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "it\\Microsoft.ReportViewer.Design.resources.dll",
+      "Size": 23496,
+      "Hash": "eacb53fb1254cf0155929a6f1aeaf208",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "it\\Microsoft.ReportViewer.WebDesign.resources.dll",
+      "Size": 23496,
+      "Hash": "58a0b153bb884f909d04d6b9d1222f0c",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "it\\Microsoft.ReportViewer.WebForms.resources.dll",
+      "Size": 45512,
+      "Hash": "3f08e2e641bfc1a94f5014cda8ba4590",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "it\\Microsoft.ReportViewer.WinForms.resources.dll",
+      "Size": 71736,
+      "Hash": "6e2be3156f8a191ca8f89f97605d2680",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "ja\\Microsoft.ReportViewer.Common.resources.dll",
+      "Size": 1478200,
+      "Hash": "c619239b8ea6e0cc441ec26115b9e861",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "ja\\Microsoft.ReportViewer.DataVisualization.resources.dll",
+      "Size": 1453128,
+      "Hash": "4e88212074a7376c45ed5e58ecce4d7f",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "ja\\Microsoft.ReportViewer.Design.resources.dll",
+      "Size": 23608,
+      "Hash": "2cd176fabb90564e3ab364ace82d9af0",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "ja\\Microsoft.ReportViewer.WebDesign.resources.dll",
+      "Size": 23496,
+      "Hash": "2e0238fe4974b07ce36cdcdd70061aa6",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "ja\\Microsoft.ReportViewer.WebForms.resources.dll",
+      "Size": 50120,
+      "Hash": "2cc191da03766c1af3c45b3dc9875326",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "ja\\Microsoft.ReportViewer.WinForms.resources.dll",
+      "Size": 74200,
+      "Hash": "c451b16d8c4a761b111aa1f9d9e59041",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "ko\\Microsoft.ReportViewer.Common.resources.dll",
+      "Size": 1451992,
+      "Hash": "f05cdca6a0dafe1c369f02b50ee10e0e",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "ko\\Microsoft.ReportViewer.DataVisualization.resources.dll",
+      "Size": 1421368,
+      "Hash": "44f4201a239801ff59398470a2ff0ed1",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "ko\\Microsoft.ReportViewer.Design.resources.dll",
+      "Size": 23496,
+      "Hash": "f2082dd943d6d1b15551e9d9bbe2df88",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "ko\\Microsoft.ReportViewer.WebDesign.resources.dll",
+      "Size": 23496,
+      "Hash": "5e1bc1f1333ef1acea89743af8799c20",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "ko\\Microsoft.ReportViewer.WebForms.resources.dll",
+      "Size": 46536,
+      "Hash": "37a9e8309a4ad5176fc01850fdc8de83",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "ko\\Microsoft.ReportViewer.WinForms.resources.dll",
+      "Size": 71736,
+      "Hash": "df5e35d622f004e1486af8069924a2cb",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "nl\\PdfiumViewer.resources.dll",
+      "Size": 4608,
+      "Hash": "1f8f1a8e30c82a8ac67b66c48ea4cced",
+      "Modified": "2017-11-06T18:33:46+03:00"
+    },
+    {
+      "Path": "pt\\Microsoft.ReportViewer.Common.resources.dll",
+      "Size": 1442888,
+      "Hash": "7f8b622c93fe8c7c8a75a53f2fd2c04f",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "pt\\Microsoft.ReportViewer.DataVisualization.resources.dll",
+      "Size": 1404984,
+      "Hash": "cda061f73a32e32633a63d40f75ce96a",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "pt\\Microsoft.ReportViewer.Design.resources.dll",
+      "Size": 23496,
+      "Hash": "49825026cc9d419bae73fadba2df80e5",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "pt\\Microsoft.ReportViewer.WebDesign.resources.dll",
+      "Size": 23496,
+      "Hash": "a11977a0f2af06c133bd5ce4a3802083",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "pt\\Microsoft.ReportViewer.WebForms.resources.dll",
+      "Size": 45528,
+      "Hash": "12d7a0b451e10ce469b1e5219d4bab58",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "pt\\Microsoft.ReportViewer.WinForms.resources.dll",
+      "Size": 71736,
+      "Hash": "9747f6bf29043620e1aefdf15bffd7ff",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "ru\\Microsoft.ReportViewer.Common.resources.dll",
+      "Size": 1535944,
+      "Hash": "d37204a728797d11fb04486f7a9438eb",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "ru\\Microsoft.ReportViewer.DataVisualization.resources.dll",
+      "Size": 1589816,
+      "Hash": "8621ae813a6dcd7ed54126aaf35a6ce2",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "ru\\Microsoft.ReportViewer.Design.resources.dll",
+      "Size": 24024,
+      "Hash": "3b76fcbc0c7b60f2adb3db2270a00679",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "ru\\Microsoft.ReportViewer.WebDesign.resources.dll",
+      "Size": 24136,
+      "Hash": "7e83df3f4d9c3d367c17060b05d0ccf0",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "ru\\Microsoft.ReportViewer.WebForms.resources.dll",
+      "Size": 56264,
+      "Hash": "91d69a5418da18d983f43def009b32c1",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "ru\\Microsoft.ReportViewer.WinForms.resources.dll",
+      "Size": 78808,
+      "Hash": "122291b4e4fa90875a21aeb1cace4de9",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "SqlServerTypes\\x64\\msvcr120.dll",
+      "Size": 963744,
+      "Hash": "e2ca271748e872d1a4fd5ac5d8c998b1",
+      "Modified": "2021-03-13T14:33:47+03:00"
+    },
+    {
+      "Path": "SqlServerTypes\\x64\\SqlServerSpatial140.dll",
+      "Size": 732936,
+      "Hash": "c01524646d2c50abd9661d7a15069125",
+      "Modified": "2021-03-13T14:33:47+03:00"
+    },
+    {
+      "Path": "SqlServerTypes\\x86\\msvcr120.dll",
+      "Size": 971584,
+      "Hash": "7f8da89204332df95cfc41f6e85dc515",
+      "Modified": "2021-03-13T14:33:47+03:00"
+    },
+    {
+      "Path": "SqlServerTypes\\x86\\SqlServerSpatial140.dll",
+      "Size": 587016,
+      "Hash": "154000d577e0d46f956f2c530fd7c5c4",
+      "Modified": "2021-03-13T14:33:47+03:00"
+    },
+    {
+      "Path": "zh-CHS\\Microsoft.ReportViewer.Common.resources.dll",
+      "Size": 1412152,
+      "Hash": "7602554f73d174a93e517e365922a5e5",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "zh-CHS\\Microsoft.ReportViewer.DataVisualization.resources.dll",
+      "Size": 1338936,
+      "Hash": "a8cf6a52f2f513859e9cd57cff91f383",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "zh-CHS\\Microsoft.ReportViewer.Design.resources.dll",
+      "Size": 22984,
+      "Hash": "e979c14b0ab5cd098b8ba8bc3053d464",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "zh-CHS\\Microsoft.ReportViewer.WebDesign.resources.dll",
+      "Size": 22984,
+      "Hash": "2aea1022b08da9b23556e35f7f028fcd",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "zh-CHS\\Microsoft.ReportViewer.WebForms.resources.dll",
+      "Size": 40904,
+      "Hash": "cf048a38eb50667bedfc12ee675a81eb",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "zh-CHS\\Microsoft.ReportViewer.WinForms.resources.dll",
+      "Size": 68152,
+      "Hash": "a3ec6a129f0e2475da46d472d785d3b5",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "zh-CHT\\Microsoft.ReportViewer.Common.resources.dll",
+      "Size": 1410504,
+      "Hash": "fb1bc15db94ca449ccf87109e5e91044",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "zh-CHT\\Microsoft.ReportViewer.DataVisualization.resources.dll",
+      "Size": 1342536,
+      "Hash": "47a76d9838e0d32478b47c88dfa82b12",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "zh-CHT\\Microsoft.ReportViewer.Design.resources.dll",
+      "Size": 22984,
+      "Hash": "29b3a1cecfd739678303c9e4a420470f",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "zh-CHT\\Microsoft.ReportViewer.WebDesign.resources.dll",
+      "Size": 23112,
+      "Hash": "012ceb4bd3c32f3f19164d42c9d8138c",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "zh-CHT\\Microsoft.ReportViewer.WebForms.resources.dll",
+      "Size": 41928,
+      "Hash": "decbbe842b2e962a3a877cd4a7b17442",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    },
+    {
+      "Path": "zh-CHT\\Microsoft.ReportViewer.WinForms.resources.dll",
+      "Size": 68552,
+      "Hash": "8adb4772b640946218c9428472b649b4",
+      "Modified": "2024-06-01T23:18:50+03:00"
+    }
+  ]
+}

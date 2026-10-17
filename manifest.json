@@ -1,6 +1,6 @@
 ﻿{
-  "Version": "16.0.11",
-  "IsMandatory": true,
+  "Version": "16.0.12",
+  "IsMandatory": false,
   "Files": [
     {
       "Path": "AdvancedDataGridView.dll",
@@ -40,9 +40,9 @@
     },
     {
       "Path": "Manpower.exe",
-      "Size": 22332416,
-      "Hash": "699d908b4a192b3d3aaded0c087971aa",
-      "Modified": "2026-10-17T07:47:12.8446609+03:00"
+      "Size": 22333440,
+      "Hash": "0ad329fd7d28242b0d5f46007e1f3757",
+      "Modified": "2026-10-17T08:24:15.9996801+03:00"
     },
     {
       "Path": "Manpower.exe.config",
@@ -174,7 +174,7 @@
       "Path": "update_source.json",
       "Size": 87,
       "Hash": "77603797c8c7d176e459e422b8eb5af0",
-      "Modified": "2026-10-17T07:47:33.9222623+03:00"
+      "Modified": "2026-10-17T08:24:39.6983474+03:00"
     },
     {
       "Path": "DataFiles\\image_program\\logo_program_sm.png",

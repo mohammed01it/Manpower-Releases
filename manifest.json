@@ -1,5 +1,5 @@
 ﻿{
-  "Version": "16.0.15",
+  "Version": "17.0.0",
   "IsMandatory": false,
   "Files": [
     {
@@ -34,9 +34,9 @@
     },
     {
       "Path": "Manpower.exe",
-      "Size": 22347264,
-      "Hash": "e86967bce00f20ac4785d12eb2e97121",
-      "Modified": "2026-10-18T02:46:37.0953272+03:00"
+      "Size": 22375936,
+      "Hash": "bad036e06bfa29163e0e732b34924579",
+      "Modified": "2026-10-20T03:00:56.3589785+03:00"
     },
     {
       "Path": "Manpower.exe.config",
@@ -168,7 +168,7 @@
       "Path": "update_source.json",
       "Size": 87,
       "Hash": "77603797c8c7d176e459e422b8eb5af0",
-      "Modified": "2026-10-18T02:47:04.3016901+03:00"
+      "Modified": "2026-10-20T03:01:38.741886+03:00"
     },
     {
       "Path": "DataFiles\\image_program\\logo_program_sm.png",

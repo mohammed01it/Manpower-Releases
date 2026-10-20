@@ -14,8 +14,8 @@ del "%PSFILE%" >nul 2>&1
 exit /b
 # ════════════════════════════════════════════════════════════
 #  Manpower Manual Update Script - Auto-generated
-#  Version: 16.0.15
-#  Generated: 2026-10-18 02:49:01
+#  Version: 17.0.0
+#  Generated: 2026-10-20 03:02:44
 # ════════════════════════════════════════════════════════════
 
 # Disable user input and cursor
@@ -68,7 +68,7 @@ Clear-Host
 Write-Host ''
 Write-Host '========================================' -ForegroundColor $COLOR_HEADER
 Write-Host '   Manpower Manual Update System' -ForegroundColor $COLOR_HEADER
-Write-Host '   Version: 16.0.15' -ForegroundColor $COLOR_HEADER
+Write-Host '   Version: 17.0.0' -ForegroundColor $COLOR_HEADER
 Write-Host '========================================' -ForegroundColor $COLOR_HEADER
 Write-Host ''
 Start-Sleep -Seconds 1
